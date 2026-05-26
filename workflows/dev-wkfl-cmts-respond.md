@@ -1,3 +1,5 @@
+> [!important] THIS FILE IS AN INSTRUCTION. WHEN REFERENCED IT IS MEANT TO BE TAKEN AS AN ACTION.
+
 # Workflow: Respond to Comments
 
 Read inline comments in a document, respond to each, and revise the document.

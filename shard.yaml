@@ -3,3 +3,5 @@ version: "0.1.0"
 name: Comments
 shorthand: cmts
 description: Inline document comments with %%comment%% syntax for agent responses
+dependencies:
+  - source: NUU-Cognition/shard-flint
