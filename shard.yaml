@@ -1,8 +1,9 @@
 shard-spec: "0.3.0"
 id: 30bcdf7d-ccc0-470a-a905-1d212babf517
-version: "0.1.0"
+version: "0.1.1"
 name: Comments
 shorthand: cmts
 description: Inline document comments with %%comment%% syntax for agent responses
 dependencies:
   - source: NUU-Cognition/shard-flint
+    version: "0.3.0"
