@@ -1,6 +1,6 @@
-shard-spec: "0.3.0"
+shard-spec: "0.4.0"
+shard: "@nuucognition/comments"
 id: 30bcdf7d-ccc0-470a-a905-1d212babf517
-org: nuucognition
 source:
   id: 0e457445-c21c-47fe-bbc2-cf6f2f6f30a6
 version: "0.1.2"
