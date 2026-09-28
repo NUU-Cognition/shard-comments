@@ -3,10 +3,9 @@ shard: "@nuucognition/comments"
 id: 30bcdf7d-ccc0-470a-a905-1d212babf517
 source:
   id: 0e457445-c21c-47fe-bbc2-cf6f2f6f30a6
-version: "0.1.2"
+version: "0.1.3"
 name: Comments
 shorthand: cmts
 description: Inline document comments with %%comment%% syntax for agent responses
 dependencies:
-  - source: NUU-Cognition/shard-flint
-    version: "0.3.0"
+  "@nuucognition/flint": "^0.3"
